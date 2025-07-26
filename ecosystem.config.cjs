@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
       {
-          name: "app",
+          name: "skykids",
           script: "pnpm",
           args: "start"
       }
